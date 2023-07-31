@@ -1,6 +1,6 @@
 # ROBUST-COMPONENT-ANALYSIS-AND-ITS-APPLICATIONS
 
-#filling in missing or corrupted parts of an image
+# filling in missing or corrupted parts of an image
 reconstruct a corrupted image by applying RobustPCA to 
 overlapping patches. The low-rank component represents the filled-in 
 regions, while the sparse component captures the corrupted or missing 
